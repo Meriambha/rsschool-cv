@@ -25,4 +25,8 @@
 - ......
 
 
+### Edcuation
+-Pogramming and management 
 
+### Code example
+- e-commerce website for jewelery
