@@ -1,3 +1,4 @@
 # rsschool-cv
 CV.Markdown & Git
-CV.Markdown & Git: https:/Meriambha.github.io/rsschool-cv/cv
+CV.Markdown & Git: https://meriambha.github.io/rsschool-cv/cv
+
